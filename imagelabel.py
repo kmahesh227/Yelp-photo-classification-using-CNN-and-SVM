@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 11 18:33:18 2017
 
-@author: Sreenivas
+@author: Mahesh
 """
 from PIL import Image
 import os
